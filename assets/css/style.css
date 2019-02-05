@@ -1,0 +1,32 @@
+.jumbotron{
+    text-align: center;
+    font-weight: bold;
+}
+
+.train-caption{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    padding-left: 5px !important;
+    background-color: #007bff;
+    vertical-align: middle;
+    caption-side: top !important;
+    border-radius: 15px;
+}
+
+.container-section{
+    border: solid 1px lightgrey !important;
+    border-radius: 25px !important;
+    padding-bottom: 20px;
+}
+
+.form-group{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+#submit-btn{
+    margin-left: 20px;
+}
